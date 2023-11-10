@@ -1,1 +1,4 @@
 # Tugas-Typescript-2
+
+M SALMAN SEPTIANTO<br>
+FE ALTERRA ACADEMY ❤️
